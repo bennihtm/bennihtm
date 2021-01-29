@@ -6,6 +6,6 @@
 
 - The more interesting stuff happens [here](https://github.com/awesomebible/).
 
-![benjaminwolkchen's github stats](https://github-readme-stats.vercel.app/api?username=benjaminwolkchen&hide=["issues"]&show_icons=true)
+![benjaminwolkchen's github stats](https://github-readme-stats.vercel.app/api?username=benjaminwolkchen&hide=["issues"]&show_icons=true&theme=nord)
 
-[![Am meisten genute Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminwolkchen)](https://github.com/anuraghazra/github-readme-stats)
+[![Am meisten genute Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminwolkchen&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
