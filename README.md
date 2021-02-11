@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: JS, PHP, TailwindCSS.
 - 📫 How to reach me: [Email](mailto:benjamin@awesomebible.de), Discord: awesomeBenjamin#6356
 
-- The more interesting stuff happens [here](https://github.com/awesomebible/).
+## The more interesting stuff happens [here](https://github.com/awesomebible/).
 
 ![benjaminwolkchen's github stats](https://github-readme-stats.vercel.app/api?username=benjaminwolkchen&hide=["issues"]&show_icons=true&theme=nord)
 
