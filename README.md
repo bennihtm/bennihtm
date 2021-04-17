@@ -5,3 +5,4 @@
 - 📫 How to reach me: [Email](mailto:benjamin@awesomebible.de), Telegram: [@awesomebenjamin](t.me/awesomebenjamin)
 
 ## Umgezogen zu [Codeberg](https://codeberg.org/benjaminwolkchen).
+## Moved to [Codeberg](https://codeberg.org/benjaminwolkchen).
