@@ -6,11 +6,12 @@ I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 
 Some of my currently most important projects are the following:
 
-[![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&show_icons=true)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&show_icons=true)](https://codeberg.org/benjaminwolkchen/Losungen)
+[![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&show_icons=true&theme=tokyonight)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&show_icons=true&theme=tokyonight)](https://codeberg.org/benjaminwolkchen/Losungen)
 
 
-Sometimes I write stuff on my blog: https://darkshark9k.ml
+Sometimes I write stuff on my blog: https://darkshark9k.ml - feel free to have a look around!
 
 My Visual Studio Code Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
 
-If you want to contact me, you can find my contact information on the about section of my blog: https://darkshark9k.ml
+If you want to contact me for some reason, you can do so preferably via Matrix or Discord.
+My MXID is [@benjamin:mstdn.social](https://matrix.to/#/@benjamin:mstdn.social) and my Discord username is darkshark#4133.
