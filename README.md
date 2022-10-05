@@ -1,4 +1,4 @@
-### Hi there, I'm Benjamin! 👋
+# Hi there, I'm Benjamin! 👋
 
 <img align="left" width="100" height="100" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/42138517&h=500&w=500&fit=cover&mask=circle&maxage=7d">
 
