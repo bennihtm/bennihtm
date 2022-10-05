@@ -13,6 +13,7 @@ Some of my currently most important projects are the following:
 
 [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&show_icons=true&theme=tokyonight)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&show_icons=true&theme=tokyonight)](https://codeberg.org/benjaminwolkchen/Losungen)
 
+## Other stuff
 
 Sometimes I write stuff on my blog: https://darkshark9k.ml - feel free to have a look around!
 
