@@ -6,11 +6,11 @@ Christian, interested in FLOSS (obviously), Linux and Photography.
 I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 
 ## I run:
-![Windows](img/windows.svg) ![Linux Mint](img/mint.svg) ![Gimp](img/gimp.svg)
+![Windows](img/windows.svg) ![Linux Mint](img/mint.svg) ![Debian](img/debian.svg) ![Android](img/android.svg) ![Firefox](img/firefox.svg) ![Tor Browser](img/tor.svg) ![Brave](img/brave.svg) ![Gimp](img/gimp.svg)
 
 ## I code with:
 
-![Shell Script](img/shell.svg) ![Python](img/python.svg) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) ![Vue.js](img/VUEJS.svg) ![TailwindCSS](img/TAILWINDCSS.svg) ![PHP](img/PHP.svg) ![Laravel](img/LARAVEL.svg) ![Supabase](img/supabase.svg) ![MariaDB](img/mariadb.svg)
+![Visual Studio Code](img/vscode.svg) ![Pycharm](img/pycharm.svg) ![Webstorm](img/webstorm.svg) ![Shell Script](img/shell.svg) ![Python](img/python.svg) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) ![Vue.js](img/VUEJS.svg) ![TailwindCSS](img/TAILWINDCSS.svg) ![PHP](img/PHP.svg) ![Laravel](img/LARAVEL.svg) ![Supabase](img/supabase.svg) ![MariaDB](img/mariadb.svg) ![Netlify](img/netlify.svg) ![Vercel](img/vercel.svg) ![Glitch](img/glitch.svg)
 
 ## 🎧 Currently vibing to:
 
