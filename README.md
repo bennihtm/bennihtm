@@ -19,7 +19,7 @@ I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 ## Current Projects
 Some of my currently most important projects are the following:
 
-[![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&show_icons=true&theme=tokyonight)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&show_icons=true&theme=tokyonight)](https://codeberg.org/benjaminwolkchen/Losungen)
+[![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&theme=spotify_dark&show_icons=true)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&theme=spotify_dark&show_icons=true)](https://codeberg.org/benjaminwolkchen/Losungen)
 
 ## Other stuff
 
