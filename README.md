@@ -6,11 +6,11 @@ Christian, interested in FLOSS (obviously), Linux and Photography.
 I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 
 ## I run:
-![Windows](img/windows.svg) ![Linux Mint](img/mint.svg) ![Debian](img/debian.svg) ![Android](img/android.svg) ![Firefox](img/firefox.svg) ![Tor Browser](img/tor.svg) ![Brave](img/brave.svg) ![Gimp](img/gimp.svg)
+![Windows](img/windows.svg) [![Linux Mint](img/mint.svg)](https://linuxmint.com) [![Debian](img/debian.svg)](https://debian.org) ![Android](img/android.svg) [![Firefox](img/firefox.svg)](https://www.mozilla.org/de/firefox/new/) [![Tor Browser](img/tor.svg)](https://torproject.org) [![Brave](img/brave.svg)](https://brave.com) [![Gimp](img/gimp.svg)](https://gimp.org)
 
 ## I code with:
 
-![Visual Studio Code](img/vscode.svg) ![Pycharm](img/pycharm.svg) ![Webstorm](img/webstorm.svg) ![Shell Script](img/shell.svg) ![Python](img/python.svg) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) ![Vue.js](img/VUEJS.svg) ![TailwindCSS](img/TAILWINDCSS.svg) ![PHP](img/PHP.svg) ![Laravel](img/LARAVEL.svg) ![Supabase](img/supabase.svg) ![MariaDB](img/mariadb.svg) ![Netlify](img/netlify.svg) ![Vercel](img/vercel.svg) ![Glitch](img/glitch.svg)
+[![VSCodium](img/vscodium.svg)](https://vscodium.com) [![Pycharm](img/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![Webstorm](img/webstorm.svg)](https://www.jetbrains.com/webstorm/) [![Shell Script](img/shell.svg)](https://de.wikipedia.org/wiki/Bash_(Shell)) [![Python](img/python.svg)](https://www.python.org/) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) [![Vue.js](img/VUEJS.svg)](https://vuejs.org/) [![WindiCSS](img/windicss.svg)](https://windicss.org/) [![TailwindCSS](img/TAILWINDCSS.svg)](https://tailwindcss.com/) [![PHP](img/PHP.svg)](https://php.net) [![Laravel](img/LARAVEL.svg)](https://laravel.com) [![Supabase](img/supabase.svg)](https://supabase.com) [![MariaDB](img/mariadb.svg)](https://mariadb.org/) [![Netlify](img/netlify.svg)](https://netlify.com) [![Vercel](img/vercel.svg)](https://vercel.com) [![Glitch](img/glitch.svg)](https://glitch.com)
 
 ## 🎧 Currently vibing to:
 
@@ -27,5 +27,5 @@ Sometimes I write stuff on my blog: https://darkshark9k.ml - feel free to have a
 
 My Visual Studio Code Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
 
-If you want to contact me for some reason, you can do so preferably via Matrix or Discord.
-My MXID is [@benjamin:mstdn.social](https://matrix.to/#/@benjamin:mstdn.social) and my Discord username is darkshark#4133.
+If you want to contact me for some reason, you can do so preferably via Matrix, XMPP or alternatively via Discord.
+My MXID is [@benjamin:mstdn.social](https://matrix.to/#/@benjamin:mstdn.social), my Jabber ID is benhtm@trashserver.net and my Discord username is darkshark#4133.
