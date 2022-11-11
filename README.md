@@ -14,7 +14,7 @@ I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 
 ## 🎧 Currently vibing to:
 
-![](https://spotify-readme-ten-rose.vercel.app/api?theme=dark)
+[![Spotify Now listening](https://spotify-readme-ten-rose.vercel.app/api?theme=dark)](https://open.spotify.com/user/6b4663f8x9uqhx0dhhq4hh00q?si=315013927dc84dc3)
 
 ## Current Projects
 Some of my currently most important projects are the following:
