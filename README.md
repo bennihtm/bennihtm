@@ -24,7 +24,7 @@ Some of my currently most important projects are the following:
 ## Some stats
 [![Benjamins's GitHub stats](https://gh-readme-stats-xi.vercel.app/api?username=benjaminwolkchen&theme=spotify_dark&count_private=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![My most used programming languages](https://gh-readme-stats-xi.vercel.app/api/top-langs/?username=benjaminwolkchen&theme=spotify_dark&count_private=true&hide_border=true&hide=html)
+![My most used programming languages](https://gh-readme-stats-xi.vercel.app/api/top-langs/?username=benjaminwolkchen&theme=spotify_dark&count_private=true&hide_border=true&hide=html&layout=compact)
 
 ## Other stuff
 
