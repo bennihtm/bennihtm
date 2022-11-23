@@ -19,7 +19,12 @@ I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 ## Current Projects
 Some of my currently most important projects are the following:
 
-[![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400)](https://codeberg.org/awesomeBible/my.awesomeBible) [![Readme Card](https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400)](https://codeberg.org/benjaminwolkchen/Losungen)
+<a href="https://codeberg.org/awesomeBible/my.awesomeBible">
+  <img align="center" src="https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400" />
+</a>
+<a href="https://codeberg.org/benjaminwolkchen/Losungen">
+  <img align="center" src="https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400" />
+</a>
 
 ## Some stats
 [![Benjamins's GitHub stats](https://gh-readme-stats-xi.vercel.app/api?username=benjaminwolkchen&theme=spotify_dark&count_private=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
