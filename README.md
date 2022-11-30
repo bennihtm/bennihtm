@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin! 👋
 
-<img align="left" width="100" height="100" src="https://cdn.statically.io/gh/benjaminwolkchen/benjaminwolkchen/master/img/avatar_rounded.webp">
+<img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
 Christian, interested in FLOSS (obviously), Linux and Photography. 
 
 I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
