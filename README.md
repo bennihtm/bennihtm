@@ -1,4 +1,4 @@
-# Hi there, I'm Benjamin! 👋
+<h1>Hi there, I'm Benjamin! <img src="https://raw.githubusercontent.com/benjaminwolkchen/benjaminwolkchen/master/img/waving.gif" width="35px"></h1>
 
 <img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
 Christian, interested in FLOSS (obviously), Linux and Photography. 
@@ -10,7 +10,7 @@ I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
 
 ## I code with:
 
-[![VSCodium](img/vscodium.svg)](https://vscodium.com) [![Pycharm](img/pycharm.svg)](https://www.jetbrains.com/pycharm/) [![Webstorm](img/webstorm.svg)](https://www.jetbrains.com/webstorm/) [![Shell Script](img/shell.svg)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [![Python](img/python.svg)](https://www.python.org/) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) [![Vue.js](img/VUEJS.svg)](https://vuejs.org/) [![WindiCSS](img/windicss.svg)](https://windicss.org/) [![TailwindCSS](img/TAILWINDCSS.svg)](https://tailwindcss.com/) [![PHP](img/PHP.svg)](https://php.net) [![Laravel](img/LARAVEL.svg)](https://laravel.com) [![Supabase](img/supabase.svg)](https://supabase.com) [![MariaDB](img/mariadb.svg)](https://mariadb.org/) [![Netlify](img/netlify.svg)](https://netlify.com) [![Vercel](img/vercel.svg)](https://vercel.com) [![Glitch](img/glitch.svg)](https://glitch.com)
+[![VSCodium](img/vscodium.svg)](https://vscodium.com) [![Shell Script](img/shell.svg)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [![Python](img/python.svg)](https://www.python.org/) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) [![Vue.js](img/VUEJS.svg)](https://vuejs.org/) [![WindiCSS](img/windicss.svg)](https://windicss.org/) [![TailwindCSS](img/TAILWINDCSS.svg)](https://tailwindcss.com/) [![PHP](img/PHP.svg)](https://php.net) [![Laravel](img/LARAVEL.svg)](https://laravel.com) [![Supabase](img/supabase.svg)](https://supabase.com) [![MariaDB](img/mariadb.svg)](https://mariadb.org/) [![Netlify](img/netlify.svg)](https://netlify.com) [![Vercel](img/vercel.svg)](https://vercel.com) [![Glitch](img/glitch.svg)](https://glitch.com)
 
 ## 🎧 Currently vibing to:
 
