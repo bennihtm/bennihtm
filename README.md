@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Benjamin! <img src="https://raw.githubusercontent.com/benjaminwolkchen/benjaminwolkchen/master/img/waving.gif" width="35px"></h1>
 
 <img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
-Christian, interested in FLOSS (obviously), Linux and Photography. 
+Christian, interested in FLOSS (should be obvious), Linux and Photography. 
 
-I mostly do WebDev with Vue, Tailwind, Laravel and PHP.
+I mostly do Webdev with Vue, Tailwind, Laravel and PHP. If I'm not doing Webdev, I'm coding scripts with Python or Shell.
 
 ## I run:
 ![Windows](img/windows.svg) [![Linux Mint](img/mint.svg)](https://linuxmint.com) [![Debian](img/debian.svg)](https://debian.org) ![Android](img/android.svg) [![Firefox](img/firefox.svg)](https://www.mozilla.org/de/firefox/new/) [![Tor Browser](img/tor.svg)](https://torproject.org) [![Brave](img/brave.svg)](https://brave.com) [![Gimp](img/gimp.svg)](https://gimp.org)
