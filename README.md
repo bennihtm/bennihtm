@@ -35,7 +35,7 @@ Some of my currently most important projects are the following:
 
 Sometimes I write stuff on my blog: https://darkshark9k.ml - feel free to have a look around!
 
-My Visual Studio Code Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
+My [VSCodium](https://vscodium.com) Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
 
 If you want to contact me for some reason, you can do so preferably via Matrix, XMPP or alternatively via Discord.
 My MXID is [@benjamin:envs.net](https://matrix.to/#/@benjamin:envs.net), my Jabber ID is [benhtm@trashserver.net](xmpp:benhtm@trashserver.net) and my Discord username is [darkshark#4133](https://discord.com/users/937726647929536583).
