@@ -19,10 +19,10 @@ I mostly do Webdev with Vue, Tailwind, Laravel and PHP. If I'm not doing Webdev,
 ## Current Projects
 Some of my currently most important projects are the following:
 
-<a href="https://codeberg.org/awesomeBible/my.awesomeBible">
+<a href="https://github.com/awesomeBible/my.awesomeBible">
   <img align="center" src="https://gh-readme-stats-xi.vercel.app/api/pin/?username=awesomeBible&repo=my.awesomeBible&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400" />
 </a>
-<a href="https://codeberg.org/benjaminwolkchen/Losungen">
+<a href="https://github.com/benjaminwolkchen/Losungen">
   <img align="center" src="https://gh-readme-stats-xi.vercel.app/api/pin/?username=benjaminwolkchen&repo=Losungen&theme=spotify_dark&show_icons=true&hide_border=true&cache_seconds=86400" />
 </a>
 
@@ -38,4 +38,4 @@ Sometimes I write stuff on my blog: https://darkshark9k.ml - feel free to have a
 My [VSCodium](https://vscodium.com) Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
 
 If you want to contact me for some reason, you can do so preferably via Matrix, XMPP or alternatively via Discord.
-My MXID is [@benjamin:envs.net](https://matrix.to/#/@benjamin:envs.net), my Jabber ID is [benhtm@trashserver.net](xmpp:benhtm@trashserver.net) and my Discord username is [darkshark#4133](https://discord.com/users/937726647929536583).
+My MXID is [@benjamin:envs.net](https://matrix.to/#/@bendaha:beeper.com), my Jabber ID is [benhtm@trashserver.net](xmpp:benhtm@trashserver.net) and my Discord username is [darkshark9k](https://discord.com/users/937726647929536583).
