@@ -3,14 +3,7 @@
 <img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
 Christian, interested in FLOSS (should be obvious), Linux and Photography. 
 
-I mostly do Webdev with Vue, Tailwind, Laravel and PHP. If I'm not doing Webdev, I'm coding scripts with Python or Shell.
-
-## I run:
-![Windows](img/windows.svg) [![Linux Mint](img/mint.svg)](https://linuxmint.com) [![Debian](img/debian.svg)](https://debian.org) ![Android](img/android.svg) [![Firefox](img/firefox.svg)](https://www.mozilla.org/de/firefox/new/) [![Tor Browser](img/tor.svg)](https://torproject.org) [![Brave](img/brave.svg)](https://brave.com) [![Gimp](img/gimp.svg)](https://gimp.org)
-
-## I code with:
-
-[![VSCodium](img/vscodium.svg)](https://vscodium.com) [![Shell Script](img/shell.svg)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [![Python](img/python.svg)](https://www.python.org/) ![JavaScript](img/js.svg) ![CSS3](img/CSS3.svg) [![Vue.js](img/VUEJS.svg)](https://vuejs.org/) [![WindiCSS](img/windicss.svg)](https://windicss.org/) [![TailwindCSS](img/TAILWINDCSS.svg)](https://tailwindcss.com/) [![PHP](img/PHP.svg)](https://php.net) [![Laravel](img/LARAVEL.svg)](https://laravel.com) [![Supabase](img/supabase.svg)](https://supabase.com) [![MariaDB](img/mariadb.svg)](https://mariadb.org/) [![Netlify](img/netlify.svg)](https://netlify.com) [![Vercel](img/vercel.svg)](https://vercel.com) [![Glitch](img/glitch.svg)](https://glitch.com)
+I mostly do Webdev with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'm not doing Webdev, I'm out in nature.
 
 ## 🎧 Currently vibing to:
 
