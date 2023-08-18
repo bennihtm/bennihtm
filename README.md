@@ -7,7 +7,7 @@ I mostly do Webdev with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'
 
 ## 🎧 Currently vibing to:
 
-[![Spotify Now listening](https://spotify-readme-zeta-lake.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/6b4663f8x9uqhx0dhhq4hh00q)
+[![Spotify Now listening](https://spotify-readme-zeta-lake.vercel.app/api?scan=true&theme=dark)](https://listenbrainz.org/user/darkshark/)
 
 ## Some stats
 ![Fancy Stats](https://raw.githubusercontent.com/benjaminwolkchen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
