@@ -10,8 +10,8 @@ I mostly do Webdev with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'
 [![Spotify Now listening](https://spotify-readme-zeta-lake.vercel.app/api?scan=true&theme=dark)](https://listenbrainz.org/user/darkshark/)
 
 ## Some stats
-![Fancy Stats](https://raw.githubusercontent.com/benjaminwolkchen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My most used programming languages](https://raw.githubusercontent.com/benjaminwolkchen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Fancy Stats](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My most used programming languages](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Other stuff
 
