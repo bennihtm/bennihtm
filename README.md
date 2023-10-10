@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Benjamin! <img src="https://raw.githubusercontent.com/bennihtm/bennihtm/master/img/waving.gif" width="35px"></h1>
+<h1>Hi there, I'm Benjamin!</h1>
 
 <img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
 Christian, interested in FLOSS (should be obvious), Linux and Photography. 
