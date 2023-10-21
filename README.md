@@ -3,15 +3,20 @@
 <img align="left" width="100" height="100" src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/42138517&mask=circle&maxage=14d">
 Christian, interested in FLOSS (should be obvious), Linux and Photography. 
 
-I mostly do Webdev with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'm not doing Webdev, I'm out in nature.
+I mostly do Web Development with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'm not doing Webdev, I'm out in nature.
 
 ## 🎧 Currently vibing to:
 
-[![Spotify Now listening](https://spotify-readme-zeta-lake.vercel.app/api?scan=true&theme=dark)](https://listenbrainz.org/user/darkshark/)
+If you want to know, what music I listen to, here's the rundown: Rap, EDM, Christian Pop.
+You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/darkshark/) account or my [Spotify Playlists]().
+
+<details>
+  <summary>Also, here's an infreqently updated Recieptify.</summary>
+</details>
 
 ## Some stats
-![bennihtm's GitHub stats](https://gh-stats-rho-fawn.vercel.app/api?username=bennihtm&show_icons=true&theme=spotify_dark)
-![Top Langs](https://gh-stats-rho-fawn.vercel.app/api/top-langs/?username=bennihtm&layout=compact&hide=html&theme=spotify_dark)
+![bennihtm's GitHub stats](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Other stuff
 
