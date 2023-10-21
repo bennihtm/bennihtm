@@ -8,7 +8,7 @@ I mostly do Web Development with Nuxt, Vue, Tailwind and sometimes Laravel and P
 ## 🎧 Currently vibing to:
 
 If you want to know, what music I listen to, here's the rundown: Rap, EDM, Christian Pop.
-You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/darkshark/) account or my [Spotify Playlists]().
+You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/darkshark/) account or my [Spotify Playlists](https://open.spotify.com/user/6b4663f8x9uqhx0dhhq4hh00q).
 
 <details>
   <summary>Also, here, have an infrequently updated Recieptify:</summary>
