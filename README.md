@@ -14,7 +14,7 @@ You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/dark
   <summary>Also, here, have an infrequently updated Recieptify:</summary>
   <br>
   <p align="center">
-    <img src="https://github.com/bennihtm/bennihtm/assets/42138517/9b2edbd7-c8db-4d58-92c8-ef1f8965d2e2" alt="top_tracks_short_term_21 10 23"></img>
+    <img src="https://raw.githubusercontent.com/bennihtm/bennihtm/master/img/top_tracks_short_term.png" alt="top_tracks_short_term_21 10 23"></img>
   </p>
 </details>
 
