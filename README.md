@@ -11,8 +11,11 @@ If you want to know, what music I listen to, here's the rundown: Rap, EDM, Chris
 You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/darkshark/) account or my [Spotify Playlists]().
 
 <details>
-  <summary>Also, here's an infreqently updated Recieptify.</summary>
-  <center>![top_tracks_short_term_21 10 23](https://github.com/bennihtm/bennihtm/assets/42138517/9b2edbd7-c8db-4d58-92c8-ef1f8965d2e2)</center>
+  <summary>Also, here, have an infrequently updated Recieptify:</summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/bennihtm/bennihtm/assets/42138517/9b2edbd7-c8db-4d58-92c8-ef1f8965d2e2" alt="top_tracks_short_term_21 10 23"></img>
+  </p>
 </details>
 
 ## Some stats
