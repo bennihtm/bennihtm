@@ -11,7 +11,7 @@ I mostly do Webdev with Nuxt, Vue, Tailwind and sometimes Laravel and PHP. If I'
 
 ## Some stats
 ![bennihtm's GitHub stats](https://gh-stats-rho-fawn.vercel.app/api?username=bennihtm&show_icons=true&theme=spotify_dark)
-![Top Langs](https://gh-stats-rho-fawn.vercel.app/api/top-langs/?username=bennihtm&layout=compact&theme=spotify_dark)
+![Top Langs](https://gh-stats-rho-fawn.vercel.app/api/top-langs/?username=bennihtm&layout=compact&hide=html&theme=spotify_dark)
 
 ## Other stuff
 
