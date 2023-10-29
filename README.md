@@ -26,7 +26,14 @@ You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/dark
 
 Sometimes I write stuff on my blog: https://bendaha.eu.org - feel free to have a look around!
 
-My [VSCodium](https://vscodium.com) Theme is [Dusk](https://vscodethemes.com/e/pilleye.dusk-theme/dusk?language=javascript).
+<details>
+  <summary>My <a href="https://code.visualstudio.com/">VS Code</a> Theme is <a href="https://vscodethemes.com/e/jdinhlife.gruvbox/gruvbox-dark-hard?language=javascript">Gruvbox</a>.</summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/bennihtm/bennihtm/master/img/gruvbox-dark-hard.svg" width="80%" alt="Gruvbox Theme Preview"></img>
+  </p>
+  
+</details>
 
 If you want to contact me for some reason, you can do so preferably via Matrix, XMPP or alternatively via Discord.
 You can find my contact details on the [about page](https://bendaha.eu.org/about/) of my website.
