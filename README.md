@@ -18,7 +18,7 @@ You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/dark
   </p>
 </details>
 
-## Some stats
+## Have some stats 📈
 ![bennihtm's GitHub stats](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Top Langs](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
