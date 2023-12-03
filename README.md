@@ -22,6 +22,8 @@ You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/dark
 ![bennihtm's GitHub stats](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Top Langs](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+![Stuff I do and Tools I use](https://skillicons.dev/icons?i=linux,vscode,js,html,css,vue,nuxt,supabase,php,wordpress,astro)
+
 ## Other stuff
 
 Sometimes I write stuff on my blog: https://bendaha.eu.org - feel free to have a look around!
