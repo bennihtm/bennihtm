@@ -7,16 +7,10 @@ I mostly do Web Development with Nuxt, Vue, Tailwind and sometimes Laravel and P
 
 ## 🎧 Currently vibing to:
 
+[![spotify](https://api.statusbadges.me/badge/spotify/937726647929536583?style=for-the-badge)](https://api.statusbadges.me/openspotify/937726647929536583)
+
 If you want to know, what music I listen to, here's the rundown: Rap, EDM, Christian Pop.
 You can also take a look at my [ListenBrainz](https://listenbrainz.org/user/darkshark/) account or my [Spotify Playlists](https://open.spotify.com/user/6b4663f8x9uqhx0dhhq4hh00q).
-
-<details>
-  <summary>Also, here, have an infrequently updated Recieptify:</summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/bennihtm/bennihtm/master/img/top_tracks_short_term.png" alt="top_tracks_short_term_21 10 23"></img>
-  </p>
-</details>
 
 ## Have some stats 📈
 ![bennihtm's GitHub stats](https://raw.githubusercontent.com/bennihtm/github-stats/master/generated/overview.svg#gh-dark-mode-only)
